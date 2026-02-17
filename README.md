@@ -1,0 +1,2 @@
+# cursoIALucatic
+Curso de IA
